@@ -74,7 +74,7 @@ Probable Item Location found at:
 
 If the result:
 
-- Goes خارج the grid ❌
+- Goes outside the grid ❌
 - Hits an obstacle (`#`) ❌
 
 Then:
